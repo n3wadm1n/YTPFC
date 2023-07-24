@@ -1,3 +1,10 @@
+#!/usr/bin/python3
+####################
+################
+### n3wadm1n #####
+### Euribot  #####
+#####################
+
 import os, readline
 from urllib.parse import urlparse
 
